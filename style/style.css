@@ -470,6 +470,13 @@ align-items: center;
 justify-content: center;
 }
 
+.character-fourth-player-left-side{
+  height: 431px;
+  background-image:
+  url('../img/player-4.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
           /* --character-player-4 end-- */
 
           /* --character-player-5-- */
@@ -480,10 +487,30 @@ justify-content: center;
   background-size: cover;
 }
 
+.character-fifth-player-right-side{
+  height: 522px;
+  background-image:
+  url('../img/player-5.png');
+  background-repeat: no-repeat;
+  background-position: center;
 
+}
 
           /* --character-player-5 end-- */
           /* --character-player-6-- */
+
+.character-sixth-player .container {
+  padding: 92px 0;
+}
+
+.character-sixth-player-left-side {
+  height: 590px;
+  background-image:
+    url('../img/player-6.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 
 .character-sixth-player-right-side {
   padding-top: 106px;
