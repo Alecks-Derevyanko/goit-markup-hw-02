@@ -87,13 +87,10 @@ color: var(--dark-theme-color);
 
 .hero .container{
   display: flex;
-  background: linear-gradient(90deg, #1E3C72 0%, #1E3C72 1%, #2A5298 100%);
-  /*background-image:
-  url(../img/bg-1.png),
-  url(../img/bg-2.png);
-  background-repeat: no-repeat;
-  background-position: left top, left 120px top;*/
-  background-size: auto; 
+  background-image:
+  url(../img/bg.png);
+  background-repeat:no-repeat;
+  background-size:cover; 
 }
 
 
